@@ -4,11 +4,7 @@
     "version": "1.0.0",
     "permissions": [
         "activeTab",
-        "storage",
-        "scripting",
-        "tabs",
-        "webNavigation",
-        "webRequest"
+        "tabs"
     ],
     "action": {
         "default_title": "Change the webpage color",
